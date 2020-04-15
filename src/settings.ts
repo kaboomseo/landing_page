@@ -24,7 +24,7 @@ export const TOS_LAST_UPDATE = 'Apr-27-2018';
 /*
  This is the link of your chat widget - it can be found on your tawk to account
 */
-export const TAWK_TO_WIDGET_URL = '';
+export const TAWK_TO_WIDGET_URL = 'https://embed.tawk.to/5e96da7a35bcbb0c9ab144f4/default';
 
 /*
  This is the link to your backend services. It is used to get the data for prices and datacenters. Normally, you shouldn't touch this one
